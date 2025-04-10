@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(229, 232, 234);
+}
+    input{
+    padding: 12px;
+    border-radius: 10px;
+    background-color: rgb(254, 255, 255);
+    width: 250px;
+    
+}
+
+button{
+    color: white;
+    background-color: rgb(59, 59, 228);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+#odd{
+    color: white;
+    background-color: rgb(39, 39, 239);
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+}
+
+#even{
+    color: rgb(42, 42, 190);
+    background-color: rgb(250, 250, 252);
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+    border-color: rgb(79, 79, 228);
+    width: 250px;
+
+    
+}
+
+a{
+    color: black;
+}
+
+
